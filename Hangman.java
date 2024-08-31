@@ -1,4 +1,4 @@
-Import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Hangman {
